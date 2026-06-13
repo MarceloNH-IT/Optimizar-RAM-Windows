@@ -89,6 +89,7 @@ Abrir el Editor de Registro
 Necesario para desactivar Prefetch desde el sistema.
 
 Presionar Win + R → escribir regedit
+
 ![RAM Antes](assets/memoria/D4.jpeg)
 
 
@@ -106,22 +107,15 @@ Cambiar el valor EnablePrefetcher a 0
 
 Guardar y cerrar
 
-02
-Desactivar SysMain
-Este servicio precarga aplicaciones en RAM, pero en SSD/NVMe no aporta beneficios.
-
-Presionar Win + R → escribir services.msc
-
-Buscar SysMain
-
-Clic derecho → Detener
+### Paso 2 – Desactivar SysMain
+1. Abrir **Servicios** (`Win + R` → escribir `services.msc`).  
+2. Buscar **SysMain**.  
+3. Clic derecho → **Detener**.  
+4. En **Propiedades** → Tipo de inicio → **Deshabilitado**.  
+   - (Opcional avanzado: en el Registro, `Start = 4` desactiva el servicio).  
 
 
-
-
-En tipo de inicio → seleccionar Deshabilitado
-
-03
+### Paso 3
 Reiniciar el sistema
 Aplicar cambios
 El reinicio asegura que los servicios deshabilitados no vuelvan a cargarse.
@@ -143,4 +137,18 @@ Verificar que SysMain ya no aparece activo
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MarceloNH-IT&color=blue&style=flat)
 
+
+## 🏁 Conclusión Final
+
+La optimización aplicada demuestra que desactivar **SysMain** y **Prefetch** en sistemas con SSD/NVMe libera hasta **5 GB de RAM**, reduciendo el uso de memoria en un ~8% y mejorando la fluidez general del sistema.
+
+### Beneficios clave:
+- **[Rendimiento optimizado](ca://s?q=Beneficios_en_rendimiento_por_liberar_RAM)**: más recursos disponibles para multitarea, edición y juegos.  
+- **[Estabilidad](ca://s?q=Estabilidad_del_sistema_despues_del_ajuste)**: menos procesos en segundo plano consumiendo memoria.  
+- **[Eficiencia](ca://s?q=Eficiencia_en_el_uso_de_RAM_en_Windows)**: caché reducida y mejor aprovechamiento de la RAM.  
+- **[Portafolio profesional](ca://s?q=Portafolio_profesional_en_GitHub)**: documentación clara con capturas antes/después y estadísticas dinámicas.
+
+---
+
+##Gracias por visitarme. Saludos
 
