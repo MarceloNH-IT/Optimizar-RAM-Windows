@@ -24,6 +24,12 @@ Comando para ingresar rapido a revisar monitoreo del sistema
 ![RAM Antes](assets/memoria/W7.jpeg)
 
 
+
+| **Estado** | **Uso RAM** | **RAM disponible** | **Caché** | **CPU** | **Beneficio** |
+| --- | --- | --- | --- | --- | --- |
+| **[Antes](ca://s?q=RAM_antes_del_ajuste_en_Windows)** | 14.2 GB (22%) | 49.6 GB | 16.7 GB | 9% | Consumo elevado en caché |
+| **[Después](ca://s?q=RAM_despues_del_ajuste_en_Windows)** | 8.9 GB (14%) | 54.8 GB | 5.2 GB | 9% | Se liberaron ~5 GB de RAM |
+
 - Memoria total: 64 GB  
 - Uso actual: 22% (14.2 GB)  
 - Procesos activos: SysMain y Prefetch habilitados  
@@ -123,4 +129,16 @@ Reiniciar la PC
 Abrir Administrador de tareas → pestaña Rendimiento
 
 Verificar que SysMain ya no aparece activo
+
+
+## 📈 Estadísticas de GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarceloNH-IT&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloNH-IT&layout=compact&theme=radical)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=MarceloNH-IT&theme=radical)
+
+![Profile Views](https://komarev.com/ghpvc/?username=MarceloNH-IT&color=blue&style=flat)
+
 
