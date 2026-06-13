@@ -8,6 +8,10 @@ Incluye capturas de pantalla del **Administrador de tareas** antes y después de
 Comando para ingresar rapido a revisar monitoreo del sistema 
 **Presionar Win + R → escribir services.msc**
 
+
+### 🛠️ Cómo desactivarlos (paso a paso)
+
+
 > Atención: este cambio solo es recomendable si usás SSD/NVMe.
 
 ---
@@ -15,7 +19,10 @@ Comando para ingresar rapido a revisar monitoreo del sistema
 ### Estado inicial (Antes del ajuste)
 ![RAM Antes](assets/memoria/w1.jpeg)
 
-![RAM Antes](assets/memoria/w2.png)
+
+### Estado inicial (despues)
+![RAM Antes](assets/memoria/W7.jpeg)
+
 
 - Memoria total: 64 GB  
 - Uso actual: 22% (14.2 GB)  
@@ -79,7 +86,15 @@ Presionar Win + R → escribir regedit
 
 Navegar a: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management\PrefetchParameters
 
+![RAM Antes](assets/memoria/D3.jpeg)
+
+
 Cambiar el valor EnablePrefetcher a 0
+
+
+![RAM Antes](assets/memoria/D2.jpeg)
+
+![RAM Antes](assets/memoria/D1.jpeg)
 
 Guardar y cerrar
 
@@ -92,6 +107,9 @@ Presionar Win + R → escribir services.msc
 Buscar SysMain
 
 Clic derecho → Detener
+
+
+
 
 En tipo de inicio → seleccionar Deshabilitado
 
