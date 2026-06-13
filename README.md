@@ -89,6 +89,8 @@ Abrir el Editor de Registro
 Necesario para desactivar Prefetch desde el sistema.
 
 Presionar Win + R → escribir regedit
+![RAM Antes](assets/memoria/D4.jpeg)
+
 
 Navegar a: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management\PrefetchParameters
 
