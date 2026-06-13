@@ -12,8 +12,10 @@ Comando para ingresar rapido a revisar monitoreo del sistema
 
 ---
 
-## 📊 Estado inicial (Antes del ajuste)
-![RAM Antes](w1.jpeg)
+### Estado inicial (Antes del ajuste)
+![RAM Antes](assets/memoria/w1.jpeg)
+
+![RAM Antes](assets/memoria/w2.png)
 
 - Memoria total: 64 GB  
 - Uso actual: 22% (14.2 GB)  
@@ -48,7 +50,7 @@ Comando para ingresar rapido a revisar monitoreo del sistema
 ---
 
 ## 📊 Estado final (Después del ajuste)
-![RAM Después](assets/ram_despues.png)
+
 
 - Memoria total: 64 GB  
 - Uso actual: 17% (10.8 GB)  
