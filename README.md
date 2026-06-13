@@ -13,7 +13,7 @@ Comando para ingresar rapido a revisar monitoreo del sistema
 ---
 
 ## 📊 Estado inicial (Antes del ajuste)
-![RAM Antes](assets/ram_antes.png)
+![RAM Antes](w1.jpeg)
 
 - Memoria total: 64 GB  
 - Uso actual: 22% (14.2 GB)  
