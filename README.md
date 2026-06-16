@@ -148,16 +148,21 @@ La optimización aplicada demuestra que desactivar **SysMain** y **Prefetch** en
 - **[Eficiencia](ca://s?q=Eficiencia_en_el_uso_de_RAM_en_Windows)**: caché reducida y mejor aprovechamiento de la RAM.  
 - **[Portafolio profesional](ca://s?q=Portafolio_profesional_en_GitHub)**: documentación clara con capturas antes/después y estadísticas dinámicas.
 
-  ![RAM Antes](assets/memoria/FotoNOC.jpg)
+
+
+![Optimización de RAM en Windows](assets/FotoNOC.jpg)
+
+
+
 
 * **💼 LinkedIn**: [Horacio Marcelo Nuñez](https://linkedin.com) *(Podés sumar tu enlace aquí más adelante)*
 * **📬 Correo Electrónico**: [marcelonh86@gmail.com](marcelonh86@gmail.com)
 * **🚀 GitHub**: [@MarceloNunez-NOC](https://github.com/MarceloNunez-NOC)
 
 ---
-*Desarrollado con dedicación y compromiso por la excelencia técnica.*
+Agradezco el tiempo de quienes visitan mi portafolio en GitHub. Cada laboratorio refleja mi compromiso con el aprendizaje continuo y la práctica aplicada en IT, redes y administración de sistemas. Mi objetivo es demostrar que puedo diagnosticar, resolver y documentar incidentes de manera profesional, utilizando máquinas virtuales y configuraciones de red.
 
----
+Invito a reclutadores y colegas a seguir mis repositorios, donde iré compartiendo nuevos proyectos, certificados y logros. Estoy abierto a colaborar y aportar mi experiencia en entornos que valoren la constancia y la capacidad de resolver problemas.
 
-##Gracias por visitarme. Saludos
+
 
