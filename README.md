@@ -148,7 +148,7 @@ La optimización aplicada demuestra que desactivar **SysMain** y **Prefetch** en
 - **[Eficiencia](ca://s?q=Eficiencia_en_el_uso_de_RAM_en_Windows)**: caché reducida y mejor aprovechamiento de la RAM.  
 - **[Portafolio profesional](ca://s?q=Portafolio_profesional_en_GitHub)**: documentación clara con capturas antes/después y estadísticas dinámicas.
 
-  ![RAM Antes](assets/memoria/D4.jpeg)
+  ![RAM Antes](assets/memoria/FotoNOC.jpg)
 
 * **💼 LinkedIn**: [Horacio Marcelo Nuñez](https://linkedin.com) *(Podés sumar tu enlace aquí más adelante)*
 * **📬 Correo Electrónico**: [marcelonh86@gmail.com](marcelonh86@gmail.com)
