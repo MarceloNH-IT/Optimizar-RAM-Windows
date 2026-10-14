@@ -2,6 +2,9 @@
 Optimización de RAM en Windows liberando 5gb de RAM en Sistema
 # 🖥️ Optimización de RAM en Windows
 
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=MarceloNH-IT.MarceloNH-IT&style=flat&color=blue)
+
+
 Este documento explica cómo desactivar **SysMain** y **Prefetch** para liberar hasta 5 GB de memoria RAM en sistemas con SSD/NVMe.  
 Incluye capturas de pantalla del **Administrador de tareas** antes y después del ajuste.
 
@@ -153,7 +156,7 @@ La optimización aplicada demuestra que desactivar **SysMain** y **Prefetch** en
 ![Optimización de RAM en Windows](assets/FotoNOC.jpg)
 
 
-
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=MarceloNH-IT.MarceloNH-IT&style=flat&color=blue)
 
 * **💼 LinkedIn**: [Horacio Marcelo Nuñez](https://linkedin.com) *(Podés sumar tu enlace aquí más adelante)*
 * **📬 Correo Electrónico**: [marcelonh86@gmail.com](marcelonh86@gmail.com)
