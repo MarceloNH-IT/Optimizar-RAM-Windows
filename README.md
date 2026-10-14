@@ -139,7 +139,7 @@ Verificar que SysMain ya no aparece activo
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=MarceloNH-IT&theme=radical)
 
-![Profile Views](https://komarev.com/ghpvc/?username=MarceloNH-IT&color=blue&style=flat)
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=MarceloNH-IT.MarceloNH-IT&style=flat&color=blue)
 
 ## 🏁 Conclusión Final
 
